@@ -4,6 +4,9 @@
 
 ### Section1 Numpy
 
+* Numpy Basic
+* Numpy with Image
+
 ### Section2 Image with OpenCV
 
 ### Section3 Image Process

@@ -3,11 +3,17 @@
 * Computer Vision with OpenCV and DL/ML
 
 ### Section1 Numpy
+
 ### Section2 Image with OpenCV
+
 ### Section3 Image Process
+
 ### Section4 Video
+
 ### Section5 Object Detection
+
 ### Section6 Object Tracking
+
 ### Section7 Deep Learning Computer Vision
 
 #### Versions

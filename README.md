@@ -1,30 +1,73 @@
-## OpenCV-Tutorials
+# OpenCV-Tutorials
 
-* Computer Vision with OpenCV and DL/ML
+Computer Vision with OpenCV and DL/ML
 
-### Section1 Numpy
+*** 
+
+## Section
+
+### 1. Numpy
 
 * Numpy Basic
 * Numpy with Image
 
-### Section2 Image with OpenCV
+### 2. Image with OpenCV
 
-### Section3 Image Process
+* Opening Image files in matplotlib
+* Opening Image files in OpenCV
+* Polygons with OpenCV
+* MouseEvent in OpenCV
 
-### Section4 Video
+### 3. Image Process
 
-### Section5 Object Detection
+* RGB, HSL, HSV
+* Blending
+* Thresholding
+* Blurring and Smoothing
+* Morphological Operators
+* Image Gradients
+* Histograms
 
-### Section6 Object Tracking
+### 4. Video
 
-### Section7 Deep Learning Computer Vision
+* Using Laptop Video Camera
 
-#### Versions
+### 5. Object Detection
+
+* Template Matching
+* Corner Detection
+* Edge Detection
+* Grid Detection
+* Contour Detection
+* Feature Matching
+* Watershed Algorithm
+* Face Detection
+
+### 6. Object Tracking
+
+* Optical Flow
+* Mean Shifting Tracking
+* Cam Shift Tracking
+
+### 7. Deep Learning Computer Vision
+
+* Machine Learning MNIST_DATA
+* CIFAR-10
+* Deep Learning on Custom Images
+
+*** 
+
+## Versions
 ```
 numpy 1.14.3
 pillow 6.0.0
 matplotlib 3.1.0
+keras 2.2.4
+tensorflow 1.14.0
 ```
-#### Reference
+
+*** 
+
+## Reference
 * https://opencv-python.readthedocs.io/en/latest/index.html
 * https://numpy.org
